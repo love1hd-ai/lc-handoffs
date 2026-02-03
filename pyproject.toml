@@ -1,0 +1,13 @@
+[project]
+name = "skills"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "socksio>=1.0.0",
+    "ollama>=0.6.0",
+    "openai>=1.0.0",
+    "dotenv>=0.9.9",
+    "pydantic>=2.0.0",
+]
